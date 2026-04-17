@@ -18,8 +18,5 @@ Punkt_09;Przykładowy punkt w dzielnicy Praga-Północ;Praga-Północ;52.25600;2
 Punkt_10;Przykładowy punkt w dzielnicy Targówek;Targówek;52.28200;21.05500
 Punkt_11;Przykładowy punkt w dzielnicy Białołęka;Białołęka;52.33800;20.95500
 Punkt_12;Przykładowy punkt w dzielnicy Bielany;Bielany;52.30500;20.93400
-nowy punkt1,Nowy punkt testowy na terenie dzielnicy Powiśle,Śródmieście,52.23550,21.02850
-nowy punkt2,Nowy punkt testowy na terenie Sadyby,Mokotów,52.18500,21.05500
-nowy punkt3,Nowy punkt testowy na terenie Bródna,Targówek,52.29200,21.03500
-nowy punkt4,Nowy punkt testowy na terenie Chomiczówki,Bielany,52.30050,20.94500
-nowy punkt5,Nowy punkt testowy na terenie Gocławia,Praga-Południe,52.23900,21.09450
+nowy punkt1;Nowy punkt testowy na terenie dzielnicy Powiśle;Śródmieście;52.23550,21.02850
+
